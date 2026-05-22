@@ -1,0 +1,9 @@
+{
+    "name": "OpenSwarm",
+    "capability": "Parallel DAG Swarms",
+    "trigger_scorecard": {
+        "multi_task": 0.9,
+        "complex_workflow": 0.9
+    },
+    "mother_prompt_override": "You are OpenSwarm, the parallel orchestration specialist of the Hive..."
+}

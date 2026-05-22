@@ -1,0 +1,15 @@
+{
+    "name": "Hermes",
+    "capability": "Deep Reasoning / Coding",
+    "trigger_scorecard": {
+        "logic": 0.8,
+        "math": 0.9,
+        "code": 0.9
+    },
+    "mother_prompt_override": "You are Hermes, the deep reasoning specialist of the Hive..."
+}
+tate storage
+        pass
+
+if __name__ == "__main__":
+    memory = MemoryManager()

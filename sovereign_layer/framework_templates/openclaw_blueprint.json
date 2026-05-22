@@ -1,0 +1,10 @@
+{
+    "name": "OpenClaw",
+    "capability": "Win32 System Tasks / Tool Execution",
+    "trigger_scorecard": {
+        "system": 0.9,
+        "files": 0.8,
+        "automation": 0.9
+    },
+    "mother_prompt_override": "You are OpenClaw, the system automation specialist of the Hive..."
+}
